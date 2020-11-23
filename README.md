@@ -14,19 +14,19 @@ When ingame, press F6 and type 'plugin load yourpluginname' to load your plugin.
 3. Edit the .set file as you wish
 
 .set file ID's:
-number=action        	usage\
-0 = button           	0|Label|console_command\
-1 = checkbox         	1|Label|bool_cvar\
-2 = slider range (f) 	2|Label|float_cvar|min|max\
-3 = slider range (i)	3|Label|int_cvar|min|max\
-4 = slider value (f)  	4|Label|float_cvar|min|max\
-5 = slider value (i)   	5|Label|int_cvar|min|max\
-6 = drop down         	6|Label|cvar|first_entry@value_of_entry&second_entry@value\
+number=action           usage\
+0 = button              0|Label|console_command\
+1 = checkbox            1|Label|bool_cvar\
+2 = slider range (f)    2|Label|float_cvar|min|max\
+3 = slider range (i)    3|Label|int_cvar|min|max\
+4 = slider value (f)    4|Label|float_cvar|min|max\
+5 = slider value (i)    5|Label|int_cvar|min|max\
+6 = drop down           6|Label|cvar|first_entry@value_of_entry&second_entry@value\
 7 = same line           put 7 in between 2 components to make them appear on the same line\
 8 = separator           put 8 in between 2 components to separate them with a line\
 9 = Label               9|Label\
 10 = grey out           10|condition_cvar\
-11 = end grey out    	everything between 10 and 11 is disabled when the condition is false\
+11 = end grey out       everything between 10 and 11 is disabled when the condition is false\
 12 = text input         12|Label|cvar_to_write_text_input_to\
 
 ## Manual Set-up
