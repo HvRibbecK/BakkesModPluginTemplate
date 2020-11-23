@@ -48,5 +48,5 @@ number=action        	usage\
 	- See GitHub Files
 
 ## Credits
-Rocket Science: Made a detailed tutorial on how to create your own BM Plugins (https://www.youtube.com/watch?v=t-5SGaunD_s)
-\HvRibbecK: Made this Template
+Rocket Science: Made a detailed tutorial on how to create your own BM Plugins (https://www.youtube.com/watch?v=t-5SGaunD_s)\
+HvRibbecK: Made this Template
