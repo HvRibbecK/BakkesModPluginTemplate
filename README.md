@@ -6,8 +6,6 @@ Clone the reposetory to your PC and open it in your IDE. The basic model for cre
 Make sure to set it to 'Release' and 'x64'. After you successfully build your .dll, put it in the bakkesmod plugin folder ([STEAMFOLDER]\steamapps\common\rocketleague\Binaries\Win64\bakkesmod\plugins).
 When ingame, press F6 and type 'plugin load yourpluginname' to load your plugin. If you load just the unmodified template, there is obviously not going to happen anything.
 
-### Auto-Update Script
-
 ### Set up a GUI
 1. Create Commands etc. that you need with CvarManager and fill in all attributes (bakkesmodplugin.h)
 2. Create a .set file in [STEAMFOLDER]\steamapps\common\rocketleague\Binaries\Win64\bakkesmod\plugins\settings)
